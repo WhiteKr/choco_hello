@@ -1,6 +1,6 @@
 name: choco_hello
 description: "Say hello to people in smiles"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/WhiteKr/choco_hello
 repository: https://github.com/WhiteKr/choco_hello
 
