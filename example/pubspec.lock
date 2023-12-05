@@ -29,10 +29,10 @@ packages:
     dependency: "direct main"
     description:
       name: choco_hello
-      sha256: f93ed733488ece1657613d3518791b1730b9352f2083b826d45780aee81af525
+      sha256: eb45ecc5e28602a13bb07d09b15cb9a7ee4c486685bb12cb42dea597d86fa7f6
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   clock:
     dependency: transitive
     description:
