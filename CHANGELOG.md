@@ -1,8 +1,12 @@
-## [1.0.1] - 2022-12-06
+## [1.0.2]
 
-* Update styles of `ChocoHelloCard`; paddings and text style
+* Fix wrong usage of the package in `/example`.
 
-## [1.0.0] - 2022-12-06
+## [1.0.1]
 
-* Package released
-* Add a widget `ChocoHelloCard`
+* Update styles of `ChocoHelloCard`; paddings and text style.
+
+## [1.0.0]
+
+* Package released.
+* Add a widget `ChocoHelloCard`.
